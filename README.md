@@ -23,3 +23,24 @@
    ```bash
    git clone https://github.com/yourusername/medical-hybrid-rag.git
    cd medical-hybrid-rag
+
+Create and activate a virtual environment:
+
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+Install dependencies:
+
+pip install -r requirements.txt
+Prepare the vector database (run once or if data changes):
+
+python
+>>> from utils.hybrid_retriever import create_vectorstore_from_text
+>>> with open("data/medical_data.txt", "r") as f:
+...     lines = [line.strip() for line in f if line.strip()]
+...
+>>> create_vectorstore_from_text(lines)
+Running the App
+streamlit run app.py
+Open the browser at http://localhost:8501.
+>>> 
+
