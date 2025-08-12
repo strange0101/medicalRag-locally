@@ -1,0 +1,8 @@
+Malaria is caused by Plasmodium parasites transmitted by Anopheles mosquitoes. Symptoms include fever, chills, sweating, headache, and nausea. Treatments include chloroquine and artemisinin-based combination therapies.
+Diabetes mellitus (Type 2) is a chronic disease characterized by high blood sugar. Symptoms include increased thirst, frequent urination, fatigue, blurred vision. Treatments include insulin, metformin, diet, and exercise.
+Tuberculosis is caused by Mycobacterium tuberculosis. Symptoms include persistent cough, chest pain, weight loss, night sweats. Treatments include isoniazid, rifampicin, ethambutol, and pyrazinamide.
+Hypertension (high blood pressure) is a persistent elevation of blood pressure. Symptoms include headaches and dizziness; often asymptomatic. Treatments include lifestyle changes, ACE inhibitors, beta blockers, diuretics.
+COVID-19 is caused by SARS-CoV-2. Symptoms include fever, cough, loss of taste or smell, shortness of breath. Treatments include supportive care, antiviral drugs in severe cases, and preventive vaccines.
+Asthma is a chronic inflammatory disease of the airways. Symptoms include wheezing, shortness of breath, chest tightness, and coughing. Treatments include inhaled corticosteroids and bronchodilators.
+Pneumonia is an infection of the lungs causing cough, fever, and difficulty breathing. Treatments include antibiotics (if bacterial), oxygen therapy, and supportive care.
+Migraine is a neurological condition causing severe headache, often with nausea and light sensitivity. Treatments include analgesics, triptans, and lifestyle triggers management.
